@@ -1,7 +1,3 @@
-# Hey —I’m **Rajin** 👋
-
-Someone who loves building AI tools, and creating stuff that just works.
-
 ### 🌱 What I’m growing
 
 <img src="https://icons.duckduckgo.com/ip3/ryne.ai.ico" width="18" style="vertical-align: middle; margin-right: 6px;" /> [**Ryne AI**](https://ryne.ai)  
